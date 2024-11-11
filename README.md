@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# Favorite Movie
+- Marvel
+- fireworks of my heart
+- You Are My Glory
